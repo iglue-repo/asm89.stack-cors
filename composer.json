@@ -1,5 +1,8 @@
 {
-    "name": "asm89/stack-cors",
+    "name": "asm89@iglue/stack-cors",
+    "replace": {
+        "asm89/stack-cors": "1.1.0"
+    },
     "description": "Cross-origin resource sharing library and stack middleware",
     "keywords": ["stack", "cors"],
     "homepage": "https://github.com/asm89/stack-cors",
